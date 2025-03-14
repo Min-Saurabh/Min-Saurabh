@@ -1,5 +1,5 @@
 # 💫 About Me:
-"I'm a passionate Machine Learning enthusiast with a strong curiosity for exploring new technologies and innovative solutions. I enjoy diving into complex algorithms, experimenting with AI models, and continuously expanding my knowledge in data science and deep learning. Always eager to learn, collaborate, and apply ML techniques to solve real-world problems!"
+I'm a passionate Machine Learning enthusiast with a strong curiosity for exploring new technologies and innovative solutions. I enjoy diving into complex algorithms, experimenting with AI models, and continuously expanding my knowledge in data science and deep learning. Always eager to learn, collaborate, and apply ML techniques to solve real-world problems!
 
 
 # 💻 Tech Stack:
@@ -12,10 +12,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Min-Saurabh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Min-Saurabh&icon=2&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
