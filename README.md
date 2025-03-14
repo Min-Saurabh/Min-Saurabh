@@ -12,7 +12,6 @@ I'm a passionate Machine Learning enthusiast with a strong curiosity for explori
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Min-Saurabh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Min-Saurabh&icon=2&color=7)](https://visitcount.itsvg.in)
