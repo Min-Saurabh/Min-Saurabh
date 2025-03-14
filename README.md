@@ -11,6 +11,3 @@ I'm a passionate Machine Learning enthusiast with a strong curiosity for explori
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Min-Saurabh&icon=2&color=7)](https://visitcount.itsvg.in)
-
