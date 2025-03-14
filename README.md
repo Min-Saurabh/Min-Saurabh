@@ -12,7 +12,7 @@ I'm a passionate Machine Learning enthusiast with a strong curiosity for explori
       <img src="https://github-readme-stats.vercel.app/api?username=Min-Saurabh&theme=date_night&hide_border=false&include_all_commits=true&count_private=false"/>
     </td>
     <td rowspan="2">
-      <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndkbHEzazEyZmY0NTl5d3M2cG5maHNhM2RweWNsb2lzMmFiN3pldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+      <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndkbHEzazEyZmY0NTl5d3M2cG5maHNhM2RweWNsb2lzMmFiN3pldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
     </td>
   </tr>
   <tr>
