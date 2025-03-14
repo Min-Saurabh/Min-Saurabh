@@ -9,5 +9,6 @@ I'm a passionate Machine Learning enthusiast with a strong curiosity for explori
 ![](https://nirzak-streak-stats.vercel.app/?user=Min-Saurabh&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Min-Saurabh&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Min-Saurabh/Min-Saurabh/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
