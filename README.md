@@ -32,6 +32,6 @@ I'm a passionate Machine Learning enthusiast with a strong curiosity for explori
     <source srcset="https://raw.githubusercontent.com/Min-Saurabh/Min-Saurabh/output/pacman-contribution-graph-light.svg" media="(prefers-color-scheme: light)">
     <img src="https://raw.githubusercontent.com/Min-Saurabh/Min-Saurabh/output/pacman-contribution-graph-light.svg" alt="Pacman animation">
   </picture>
-</p>
+</p> 
 
 
