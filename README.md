@@ -23,7 +23,7 @@ I'm a passionate Machine Learning enthusiast with a strong curiosity for explori
       <img width="500" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndkbHEzazEyZmY0NTl5d3M2cG5maHNhM2RweWNsb2lzMmFiN3pldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
     </td>
   </tr>
-</table>
+</table> 
 
 ### **Pacman Contribution Graph**  
 <p align="center">
