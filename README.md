@@ -24,7 +24,7 @@ I'm a passionate Machine Learning enthusiast with a strong curiosity for explori
   </tr>
 </table> 
 
-### **Pacman Contribution Graph**  
+### **Pacman Contribution Eater**  
 <p align="center">
   <picture>
     <source srcset="https://raw.githubusercontent.com/Min-Saurabh/Min-Saurabh/output/pacman-contribution-graph-dark.svg" media="(prefers-color-scheme: dark)">
